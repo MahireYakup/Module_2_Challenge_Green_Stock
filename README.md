@@ -9,11 +9,11 @@ Steve wants to help parents with investing in green energy. Even though his pare
 ![Alt text](resources/AllStocks_2018.png "AllStocks_2017")
 
  From these two results, in 2017, Indeed DQ had a better future in which increased the total Volume and high percentage of return values. However, in 2018, the picture is slightly different in which the other two Green energy stocks had a better view, including ENPH and RUN. DQ had negative results, lowing total Volumes and negative returning, which means stock value dropped significantly. ENPH is a relatively stable stock with a positive increase in both 2017 and 2018. Run had a dramatic change from 2017 to 2018; it has positive growth. DQ was dropped for some reason. 
-Summary: In a summary statement, address the following questions.
+# Summary: In a summary statement, address the following questions.
 In summary, we don't really suggest Steve's parent to invest DQ continuously. They probably think about RUN or best choice so far is ENPH. 
-What are the advantages or disadvantages of refactoring code?
+# What are the advantages or disadvantages of refactoring code?
 Advantages : avoid reduplication such as don't repreat yourself rules. Disadvantage: for beginner i stick on step by step learning.
-How do these pros and cons apply to refactoring the original VBA script?
+# How do these pros and cons apply to refactoring the original VBA script?
 save time 
-My comments on Module 2
-I did not use the tickerIndex since my code did not work. It did not work either return or total volume. Basically Total Volume came out but with wrong caldulation. SO i combined individual code for practicing 2018 and combined teh code with [provided code given by Bootcamp. However I undestan my code and reached teh goal.
+# My comments on Module 2
+I did not use the tickerIndex since my code did not work. It worked neither return nor total Volume. Total Volume came out but with the wrong calculations. So I combined individual code for practicing 2018 and combined teh code with provided code given by Bootcamp. However, I understood my code and reached the goal. The Ticker Index code was provided in slackflows and I don't want to use it.
