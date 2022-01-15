@@ -18,4 +18,4 @@ Advantages : avoid reduplication such as don't repreat yourself rules. Disadvant
 # How do these pros and cons apply to refactoring the original VBA script?
 save time 
 # My comments on Module 2
-I did not use the tickerIndex since my code did not work. It worked neither return nor total Volume. Total Volume came out but with the wrong calculations. So I combined individual code for practicing 2018 and combined teh code with provided code given by Bootcamp. However, I understood my code and reached the goal. The Ticker Index code was provided in slackflows and I don't want to use it.
+I did  use the tickerIndex with helpf of Henry (TA) and Aman Gill's study group. Originally used the nested work of 2018 with the VBA code provided by Module-Challange 2. It works too. However Module 2-Challenge required tickerIndex. I used ticker Index in the code named as Module 2.bas. 
